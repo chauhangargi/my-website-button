@@ -1,0 +1,19 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+h5{font-family: cursive;font-size:30px; background-color: crimson;
+}
